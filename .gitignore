@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+/ROOT
+docs/.vuepress/dist
 # Log files
 npm-debug.log*
 yarn-debug.log*
